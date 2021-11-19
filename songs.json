@@ -1,0 +1,27 @@
+{
+  "song1": {
+    "title": "Place In Me",
+    "artist": "Luke Hemmings",
+    "album": "When Facing Things We Turn Away From"
+  },
+  "song2": {
+    "title": "Enchanted",
+    "artist": "Taylor Swift",
+    "album": "Speak Now"
+  },
+  "song3": {
+    "title": "Fingers",
+    "artist": "Zayn",
+    "album": "Icarus Falls"
+  },
+  "song4": {
+    "title": "Garden",
+    "artist": "Dua Lipa",
+    "album": "Dua Lipa"
+  },
+  "song5": {
+    "title": "Fake Happy",
+    "artist": "Paramore",
+    "album": "After Laughter"
+  }
+}
