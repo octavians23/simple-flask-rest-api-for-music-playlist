@@ -1,1 +1,1 @@
-# simple-flask-rest-api-for-music-playlist
+Simple flask rest api for music playlist. The songs have the name, artist and the album they belong to. You can get, put or delete a song based on its id or you can add a song at the end of the playlist. The changes are written to the file after each CRUD operation.
